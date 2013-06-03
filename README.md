@@ -1,5 +1,4 @@
 # PCMapImage
-===
 
 A simple way of generating a UIImage representation of an MKMapView. Useful if you need to apply filters to a map or don't want a MKMapView slowing down your scroll views. It also handles things like caching.
 
